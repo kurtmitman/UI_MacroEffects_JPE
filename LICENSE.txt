@@ -1,0 +1,58 @@
+Licenses for "Data and Code for: Unemployment Benefits and Unemployment in the
+Great Recession: The Role of Macro Effects"
+(Hagedorn, Karahan, Manovskii, Mitman)
+
+============================================================================
+CODE — BSD 3-Clause License
+============================================================================
+
+Copyright (c) 2026, Marcus Hagedorn, Fatih Karahan, Iourii Manovskii, and
+Kurt Mitman. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+============================================================================
+DATA — Creative Commons Attribution 4.0 International (CC BY 4.0)
+============================================================================
+
+The derived and compiled data files in this archive (including the synthetic
+vacancy stand-in in synthetic-data/ and the authors' compiled series in
+data/raw/) are licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/
+
+Notes:
+- Underlying data produced by U.S. government agencies (BLS, Census Bureau,
+  BEA, FHFA, DOL, USDA, Recovery.gov) are in the public domain and are not
+  subject to the above license.
+- Redistributed third-party files retain the terms of their original
+  publishers/archives: the Saiz (2010) QJE archive file, the Kaplan-Mitman-
+  Violante (2020) JPubE archive file, the Dube-Lester-Reich (2010) ReStat
+  county-pair list, and the state business-policy index extracts (SBE
+  Council, Tax Foundation, Beacon Hill Institute).
+- The Conference Board Help-Wanted OnLine (HWOL) data are NOT included in
+  this archive and are not covered by any license granted here.
